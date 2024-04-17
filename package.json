@@ -1,0 +1,20 @@
+{
+  "name": "decentralized-real-estate-investment",
+  "version": "1.0.1", 
+  "description": "This npm package provides functionalities for creating a decentralized ride-sharing platform using blockchain technology. It allows passengers to request rides and drivers to accept and complete ride requests directly on the blockchain.",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/donkeymoon/decentralized-real-estate-investment.git"
+  },
+  "keywords": [
+    "", 
+    "",
+    ""
+  ],
+  "author": "donkeymoon",
+  "license": "MIT"
+}
